@@ -1,0 +1,26 @@
+# Loading project axi_pim
+# Compile of axi_pim.v failed with 12 errors.
+# Compile of PIM_MODEL.v was successful.
+# Compile of tb_axi_pim.v was successful.
+# 3 compiles, 1 failed with 12 errors.
+# Compile of axi_pim.v failed with 1 errors.
+# Compile of axi_pim.v was successful.
+vsim work.tb_axi_pim
+# vsim work.tb_axi_pim 
+# Start time: 00:54:04 on May 18,2024
+# Loading work.tb_axi_pim
+# Loading work.axi_pim
+# Loading work.PIM_MODEL
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (6) for port 'addr'. The port definition is at: /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/0518/src/PIM_MODEL.v(7).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_axi_pim/uut/pim_inst File: /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/0518/src/axi_pim.v Line: 158
+add wave -position insertpoint sim:/tb_axi_pim/*
+run -all
+# Missing rlast at the end of the burst
+# mac_out : 00000000
+# ** Note: $finish    : /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/0518/src/tb_axi_pim.v(147)
+#    Time: 305 ns  Iteration: 1  Instance: /tb_axi_pim
+# 1
+# Break in Module tb_axi_pim at /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/0518/src/tb_axi_pim.v line 147
+# A time value could not be extracted from the current line
+# End time: 00:55:57 on May 18,2024, Elapsed time: 0:01:53
+# Errors: 0, Warnings: 8

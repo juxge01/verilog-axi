@@ -1,0 +1,121 @@
+VCD info: dumpfile dump.vcd opened for output.
+VCD warning: ./tb_axi_pim.v:214: $dumpfile called after $dumpvars started,
+                                 using existing file (dump.vcd).
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: 00000000, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbeef, mac_out:xxxxxxxx
+
+==== Writing ====
+p_en:0, mem_wr_en:1, address 00, s_axi_wdata:deadbeef
+
+==== Writing ====
+p_en:0, mem_wr_en:1, address 01, s_axi_wdata:deadbef0
+
+==== Writing ====
+p_en:0, mem_wr_en:1, address 02, s_axi_wdata:deadbef0
+
+==== Writing ====
+p_en:0, mem_wr_en:1, address 03, s_axi_wdata:deadbef1
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef1, mac_out:00000000
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:00000000
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:xxxxxxxx
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:xxxxxxxx
+
+~~~~ Reading ~~~~
+p_en:0, mem_rd_en:1, address 00, s_axi_rdata:00000000
+
+~~~~ Reading ~~~~
+p_en:0, mem_rd_en:1, address 01, s_axi_rdata:deadbeef
+
+~~~~ Reading ~~~~
+p_en:0, mem_rd_en:1, address 02, s_axi_rdata:deadbef0
+
+~~~~ Reading ~~~~
+p_en:0, mem_rd_en:1, address 03, s_axi_rdata:deadbef0
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:00000000
+
+Early rlast at index           2
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:00000000
+
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:xxxxxxxx
+
+Mismatch in data received: expected deadbef2, got deadbef1
+---- Operation ----
+p_en:1, mem_wr_en:0
+input: deadbef2, mac_out:xxxxxxxx
+

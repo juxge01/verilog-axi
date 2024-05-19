@@ -1,0 +1,32 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1716037723" />
+    <testcase name="run_test_write_001" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="0.00763702392578125" sim_time_ns="1000000000" ratio_time="130941058941.05894">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+    <testcase name="run_test_write_002" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="6.747245788574219e-05" sim_time_ns="1000000000" ratio_time="14820862190812.72">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+    <testcase name="run_test_write_003" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="5.650520324707031e-05" sim_time_ns="1000000000" ratio_time="17697485232067.51">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+    <testcase name="run_test_write_004" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="5.507469177246094e-05" sim_time_ns="1000000000" ratio_time="18157160173160.17">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+    <testcase name="run_test_read_001" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="5.5789947509765625e-05" sim_time_ns="1000000000" ratio_time="17924376068376.07">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+    <testcase name="run_test_read_002" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="5.507469177246094e-05" sim_time_ns="1000000000" ratio_time="18157160173160.17">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+    <testcase name="run_test_read_003" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="5.435943603515625e-05" sim_time_ns="1000000000" ratio_time="18396070175438.598">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+    <testcase name="run_test_read_004" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="5.507469177246094e-05" sim_time_ns="1000000000" ratio_time="18157160173160.17">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+    <testcase name="run_pim_test_001" classname="test_axi_pim" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="5.412101745605469e-05" sim_time_ns="1000000000" ratio_time="18477110132158.59">
+      <failure message="Test failed with RANDOM_SEED=1716037723" />
+    </testcase>
+  </testsuite>
+</testsuites>

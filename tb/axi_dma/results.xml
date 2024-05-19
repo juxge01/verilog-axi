@@ -1,0 +1,13 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1716031042" />
+    <testcase name="run_test_write_001" classname="test_axi_dma" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="1.380645751953125" sim_time_ns="55530.001" ratio_time="40220.31062018965" />
+    <testcase name="run_test_write_002" classname="test_axi_dma" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="3.019834280014038" sim_time_ns="111840.00100000002" ratio_time="37035.145186669026" />
+    <testcase name="run_test_write_003" classname="test_axi_dma" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="2.3268961906433105" sim_time_ns="99970.00100000002" ratio_time="42962.810890313754" />
+    <testcase name="run_test_write_004" classname="test_axi_dma" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="3.425307035446167" sim_time_ns="111850.00099999999" ratio_time="32654.00731745814" />
+    <testcase name="run_test_read_001" classname="test_axi_dma" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="0.21918845176696777" sim_time_ns="7850.000999999989" ratio_time="35813.93516272376" />
+    <testcase name="run_test_read_002" classname="test_axi_dma" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="0.4494044780731201" sim_time_ns="14330.00099999999" ratio_time="31886.644880446504" />
+    <testcase name="run_test_read_003" classname="test_axi_dma" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="0.3360753059387207" sim_time_ns="14340.00099999999" ratio_time="42669.01122040403" />
+    <testcase name="run_test_read_004" classname="test_axi_dma" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="0.5839395523071289" sim_time_ns="19770.00099999999" ratio_time="33856.24577388065" />
+  </testsuite>
+</testsuites>

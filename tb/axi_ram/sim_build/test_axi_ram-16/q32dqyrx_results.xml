@@ -1,0 +1,22 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1716037109" />
+    <testcase name="run_test_write_001" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="1.2253928184509277" sim_time_ns="64820.001" ratio_time="52897.3240449881" />
+    <testcase name="run_test_write_002" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="1.5124518871307373" sim_time_ns="85420.00100000002" ratio_time="56477.83028791068" />
+    <testcase name="run_test_write_003" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="2.4317541122436523" sim_time_ns="127290.00100000002" ratio_time="52344.93091184955" />
+    <testcase name="run_test_write_004" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="2.850611686706543" sim_time_ns="147930.001" ratio_time="51894.12563270274" />
+    <testcase name="run_test_write_005" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="3.0279994010925293" sim_time_ns="189900.001" ratio_time="62714.67587856271" />
+    <testcase name="run_test_write_006" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="4.259238004684448" sim_time_ns="271980.00100000005" ratio_time="63856.49280478518" />
+    <testcase name="run_test_write_007" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="4.955251932144165" sim_time_ns="252450.00099999993" ratio_time="50945.94673630719" />
+    <testcase name="run_test_write_008" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="6.49249005317688" sim_time_ns="334370.00099999993" ratio_time="51501.04170531417" />
+    <testcase name="run_test_read_001" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="0.7934718132019043" sim_time_ns="42600.001000000164" ratio_time="53688.10875347415" />
+    <testcase name="run_test_read_002" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="1.2102046012878418" sim_time_ns="63190.00099999993" ratio_time="52214.31230120606" />
+    <testcase name="run_test_read_003" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="1.9318368434906006" sim_time_ns="104290.00099999993" ratio_time="53984.890779679015" />
+    <testcase name="run_test_read_004" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="3.396841049194336" sim_time_ns="186370.00100000016" ratio_time="54865.68205603953" />
+    <testcase name="run_test_read_005" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="1.7329602241516113" sim_time_ns="104300.00099999993" ratio_time="60186.032862387874" />
+    <testcase name="run_test_read_006" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="2.1788547039031982" sim_time_ns="124950.00099999993" ratio_time="57346.6421492744" />
+    <testcase name="run_test_read_007" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="3.214108467102051" sim_time_ns="166530.00100000016" ratio_time="51812.190753521536" />
+    <testcase name="run_test_read_008" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="4.778662443161011" sim_time_ns="248610.0009999997" ratio_time="52025.01828849582" />
+    <testcase name="run_stress_test_001" classname="test_axi_ram" file="/home/jueun/.local/lib/python3.10/site-packages/cocotb/regression.py" lineno="731" time="8.831471920013428" sim_time_ns="329970.00100000016" ratio_time="37362.967802936575" />
+  </testsuite>
+</testsuites>

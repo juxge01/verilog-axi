@@ -1,0 +1,5 @@
+VCD info: dumpfile dump.vcd opened for output.
+VCD warning: ./tb_axi_ram.v:205: $dumpfile called after $dumpvars started,
+                                 using existing file (dump.vcd).
+Early rlast at index           2
+Mismatch in data received: expected deadbef2, got deadbef1

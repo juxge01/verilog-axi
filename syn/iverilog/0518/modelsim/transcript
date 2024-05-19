@@ -1,0 +1,139 @@
+# Loading project axi_pim
+# Compile of axi_pim.v was successful.
+# Compile of tb_axi_pim.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_axi_pim
+# vsim work.tb_axi_pim 
+# Start time: 19:31:21 on May 18,2024
+# Loading work.tb_axi_pim
+# Loading work.axi_pim
+add wave -position insertpoint sim:/tb_axi_pim/uut/*
+run -all
+# ** Warning: (vsim-PLI-3826) $dumpfile : This task should be called prior to the $dumpvars
+# task.  The $dumpfile task will be ignored.
+#    Time: 0 ps  Iteration: 0  Process: /tb_axi_pim/#INITIAL#212 File: /home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v Line: 214
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: 00000000, mac_out:xxxxxxxx
+# 
+# ==== Writing ====
+# p_en:0, mem_wr_en:1, address 00, s_axi_wdata:deadbeef
+# 
+# ==== Writing ====
+# p_en:0, mem_wr_en:1, address 01, s_axi_wdata:deadbeef
+# 
+# ==== Writing ====
+# p_en:0, mem_wr_en:1, address 02, s_axi_wdata:deadbef0
+# 
+# ==== Writing ====
+# p_en:0, mem_wr_en:1, address 03, s_axi_wdata:deadbef0
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef1, mac_out:00000000
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef1, mac_out:00000000
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef2, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef2, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef2, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef2, mac_out:xxxxxxxx
+# 
+# ~~~~ Reading ~~~~
+# p_en:0, mem_rd_en:1, address 00, s_axi_rdata:00000000
+# 
+# ~~~~ Reading ~~~~
+# p_en:0, mem_rd_en:1, address 01, s_axi_rdata:deadbeef
+# 
+# ~~~~ Reading ~~~~
+# p_en:0, mem_rd_en:1, address 02, s_axi_rdata:deadbeef
+# 
+# ~~~~ Reading ~~~~
+# p_en:0, mem_rd_en:1, address 03, s_axi_rdata:deadbef0
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef2, mac_out:00000000
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef2, mac_out:00000000
+# 
+# Mismatch in data received: expected deadbef2, got deadbef0
+# Early rlast at index           2
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef2, mac_out:xxxxxxxx
+# 
+# ---- Operation ----
+# p_en:1, mem_wr_en:0
+# input: deadbef2, mac_out:xxxxxxxx
+# 
+# Mismatch in data received: expected deadbef2, got deadbef0
+# ** Note: $finish    : /home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v(149)
+#    Time: 305 ns  Iteration: 1  Instance: /tb_axi_pim
+# 1
+# Break in Module tb_axi_pim at /home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v line 149
+# End time: 19:33:01 on May 18,2024, Elapsed time: 0:01:40
+# Errors: 0, Warnings: 6

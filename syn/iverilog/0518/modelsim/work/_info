@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/modelsim
+vaxi_pim
+Z1 !s110 1716028276
+!i10b 1
+!s100 TSDa6IWfkDaJVke;_0NiM2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMMdVzT4@1R56c8j;[3^iM0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1716028016
+8/home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/axi_pim.v
+F/home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/axi_pim.v
+!i122 0
+L0 34 429
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1716028276.000000
+!s107 /home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/axi_pim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/axi_pim.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_axi_pim
+R1
+!i10b 1
+!s100 5B^OFdbmenFQfOOZ;6PA83
+R2
+I4dc0ol1FVfeomIzag?i`F0
+R3
+R0
+w1716027519
+8/home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v
+F/home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v
+!i122 1
+L0 3 215
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v|
+!i113 1
+R6
+R7

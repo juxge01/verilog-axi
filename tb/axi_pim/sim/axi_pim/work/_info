@@ -1,0 +1,81 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim
+vaxi_pim
+Z1 !s110 1715959335
+!i10b 1
+!s100 IB=7oE>R0D1mDfM^gjlcg2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I31TBI44J5>J6;<;f1]z852
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1715959326
+8/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/axi_pim.v
+F/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/axi_pim.v
+!i122 20
+L0 34 374
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1715959335.000000
+!s107 /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/axi_pim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/axi_pim.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vPIM_MODEL
+R1
+!i10b 1
+!s100 5dZdn6kWG^[mPZ=I:i3]00
+R2
+Ik7QeWAFfn7O5cS`Hnenfj2
+R3
+R0
+w1715929569
+8/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/PIM_MODEL.v
+F/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/PIM_MODEL.v
+!i122 21
+L0 1 76
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/PIM_MODEL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/PIM_MODEL.v|
+!i113 1
+R6
+R7
+n@p@i@m_@m@o@d@e@l
+vtb_axi_pim
+R1
+!i10b 1
+!s100 ZCDE?mUc2aZfMImz[Y]a13
+R2
+If]eLKiBFNkEU1`aeC8f2c1
+R3
+R0
+w1715932357
+8/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v
+F/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v
+!i122 22
+L0 3 208
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v|
+!i113 1
+R6
+R7

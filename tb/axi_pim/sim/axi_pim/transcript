@@ -1,0 +1,81 @@
+project open /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/axi_pim
+# Loading project axi_pim
+# Compile of axi_pim.v was successful.
+# Compile of PIM_MODEL.v was successful.
+# Compile of tb_axi_pim.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.tb_axi_pim
+# vsim work.tb_axi_pim 
+# Start time: 00:12:16 on May 18,2024
+# Loading work.tb_axi_pim
+# Loading work.axi_pim
+# Loading work.PIM_MODEL
+add wave -position insertpoint sim:/tb_axi_pim/*
+run -all
+# Mismatch in data received: expected deadbef1, got deadbef0
+# Early rlast at index           2
+# Mismatch in data received: expected deadbef2, got deadbef0
+# mac_out : 00000000
+# ** Note: $finish    : /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v(147)
+#    Time: 305 ns  Iteration: 1  Instance: /tb_axi_pim
+# 1
+# Break in Module tb_axi_pim at /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v line 147
+# A time value could not be extracted from the current line
+# Compile of axi_pim.v was successful.
+# Compile of PIM_MODEL.v was successful.
+# Compile of tb_axi_pim.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_axi_pim
+# Loading work.axi_pim
+# Loading work.PIM_MODEL
+run -all
+# Mismatch in data received: expected deadbef1, got deadbef0
+# Early rlast at index           2
+# Mismatch in data received: expected deadbef2, got deadbef0
+# mac_out : 00000000
+# ** Note: $finish    : /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v(147)
+#    Time: 305 ns  Iteration: 1  Instance: /tb_axi_pim
+# 1
+# Break in Module tb_axi_pim at /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v line 147
+add wave -position insertpoint sim:/tb_axi_pim/uut/pim_inst/*
+restart
+run -all
+# Mismatch in data received: expected deadbef1, got deadbef0
+# Early rlast at index           2
+# Mismatch in data received: expected deadbef2, got deadbef0
+# mac_out : 00000000
+# ** Note: $finish    : /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v(147)
+#    Time: 305 ns  Iteration: 1  Instance: /tb_axi_pim
+# 1
+# Break in Module tb_axi_pim at /home/jueun/park/PIM_Model/AXI/verilog-axi-master/tb/axi_pim/sim/axi_pim/src/tb_axi_pim.v line 147
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# End time: 01:00:03 on May 18,2024, Elapsed time: 0:47:47
+# Errors: 0, Warnings: 4

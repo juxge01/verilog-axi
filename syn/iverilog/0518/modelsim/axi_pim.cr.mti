@@ -1,0 +1,15 @@
+/home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/axi_pim.v {1 {vlog -work work -stats=none /home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/axi_pim.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module axi_pim
+
+Top level modules:
+	axi_pim
+
+} {} {}} /home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v {1 {vlog -work work -stats=none /home/jueun/park/PIM_Model/AXI/verilog-axi-master/syn/iverilog/0518/tb_axi_pim.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_axi_pim
+
+Top level modules:
+	tb_axi_pim
+
+} {} {}}
